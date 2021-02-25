@@ -3,4 +3,4 @@
 !.gitignore
 
 !.ssh
-!ssh-setup.sh
+!setup.sh

@@ -11,5 +11,5 @@ git clone https://github.com/hugoogb/ssh-setup.git ~/ssh-setup
 ## SSH Setup script
 
 ```sh
-. ~/ssh-setup/ssh-setup.sh
+. ~/ssh-setup/setup.sh
 ```
