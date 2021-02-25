@@ -1,3 +1,6 @@
 /*
 !README.md
 !.gitignore
+
+!.ssh
+!ssh-setup.sh
